@@ -18,6 +18,7 @@
 		F277340A183644B9009BEDA8 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F27733E9183644B9009BEDA8 /* Cocoa.framework */; };
 		F2773412183644B9009BEDA8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F2773410183644B9009BEDA8 /* InfoPlist.strings */; };
 		F2773414183644B9009BEDA8 /* StringToRGBTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F2773413183644B9009BEDA8 /* StringToRGBTests.m */; };
+		F277342118365DBA009BEDA8 /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = F277342018365DBA009BEDA8 /* MyView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,8 @@
 		F277340F183644B9009BEDA8 /* StringToRGBTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StringToRGBTests-Info.plist"; sourceTree = "<group>"; };
 		F2773411183644B9009BEDA8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F2773413183644B9009BEDA8 /* StringToRGBTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StringToRGBTests.m; sourceTree = "<group>"; };
+		F277341F18365DBA009BEDA8 /* MyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyView.h; sourceTree = "<group>"; };
+		F277342018365DBA009BEDA8 /* MyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				F27733FE183644B9009BEDA8 /* MainMenu.xib */,
 				F2773401183644B9009BEDA8 /* Images.xcassets */,
 				F27733F0183644B9009BEDA8 /* Supporting Files */,
+				F277341F18365DBA009BEDA8 /* MyView.h */,
+				F277342018365DBA009BEDA8 /* MyView.m */,
 			);
 			path = StringToRGB;
 			sourceTree = "<group>";
@@ -254,6 +259,7 @@
 			files = (
 				F27733FD183644B9009BEDA8 /* AppDelegate.m in Sources */,
 				F27733F6183644B9009BEDA8 /* main.m in Sources */,
+				F277342118365DBA009BEDA8 /* MyView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
