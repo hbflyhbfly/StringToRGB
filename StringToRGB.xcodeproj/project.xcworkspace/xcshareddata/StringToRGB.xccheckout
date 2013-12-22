@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>33BAE396-69E9-4204-9BFC-7DC39775DA61</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StringToRGB</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FD2C43F2-A432-4E98-B690-3B2698C827F2</key>
+		<string>https://github.com/hbflyhbfly/StringToRGB.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StringToRGB.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FD2C43F2-A432-4E98-B690-3B2698C827F2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hbflyhbfly/StringToRGB.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FD2C43F2-A432-4E98-B690-3B2698C827F2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD2C43F2-A432-4E98-B690-3B2698C827F2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StringToRGB</string>
+		</dict>
+	</array>
+</dict>
+</plist>

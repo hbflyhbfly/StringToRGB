@@ -14,5 +14,6 @@
 @property IBOutlet NSTextField *textR;
 @property IBOutlet NSTextField *textG;
 @property IBOutlet NSTextField *textB;
+@property IBOutlet NSTextField *color;
 -(IBAction)btnPress:(id)sender;
 @end

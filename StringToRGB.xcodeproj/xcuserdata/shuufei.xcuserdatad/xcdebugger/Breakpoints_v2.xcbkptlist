@@ -10,29 +10,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "StringToRGB/MyView.m"
-            timestampString = "406231576.359458"
+            timestampString = "409396301.551737"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
             landmarkName = "-btnPress:"
             landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "StringToRGB/MyView.m"
-            timestampString = "406231978.264247"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
-            landmarkName = "-btnPress:"
-            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyView btnPress:]"
+                  moduleName = "StringToRGB"
+                  urlString = "file:///Users/shuufei/Desktop/StringToRGB/StringToRGB/MyView.m"
+                  timestampString = "409396306.177554"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2363">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyView btnPress:]"
+                  moduleName = "StringToRGB"
+                  urlString = "file:///Users/shuufei/Desktop/StringToRGB/StringToRGB/MyView.m"
+                  timestampString = "409396306.177756"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2684">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
